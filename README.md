@@ -1,1 +1,1 @@
-# javascript-first-steps
+# Javascript First Steps 
